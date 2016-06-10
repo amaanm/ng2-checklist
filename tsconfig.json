@@ -1,0 +1,17 @@
+{
+  "version": "1.8.10",
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "declaration": true
+  },
+  "files": [
+    "typings/index.d.ts",
+    "src/checklist.ts",
+    "src/index.ts"
+  ]
+}
