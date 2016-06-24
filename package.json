@@ -1,6 +1,6 @@
 {
   "name": "ng2-checklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very simple checklist directive to get a set of checkboxes to map to an array of strings",
   "main": "index.js",
   "typings": "./index.d.ts",
